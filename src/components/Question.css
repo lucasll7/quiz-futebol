@@ -1,0 +1,19 @@
+#question {
+  background:  rgba(0, 0, 0, .8);
+  border-radius: 1rem;
+  padding: .5rem;
+  max-width: 400px;
+}
+
+#question p {
+  margin-bottom: 1rem;
+}
+
+#question h2 {
+  margin-bottom: 2rem;
+}
+
+#question button {
+  border: 2px solid #fff;
+  margin: 1rem;
+}

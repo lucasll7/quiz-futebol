@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: white;
+}
+/*
+body,
+html {
+  min-height: 100vh;
+  height: 100%;
+  background-image: url("../src/img/fundo.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-attachment: fixed;
+} */
+
+body, html {
+  min-height: 100vh;
+  height: 100%;
+  background: #1c1c1c;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.8rem 1.5rem;
+  background: green;
+  border-radius: 3rem;
+  border: none;
+}
+
+button:hover {
+  background: rgb(37, 143, 37);
+}
